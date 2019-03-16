@@ -1,0 +1,7 @@
+{
+  "name": "@amurjs/amurjs",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:amurjs/amurjs.git",
+  "license": "MIT"
+}
